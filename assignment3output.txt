@@ -1,0 +1,118 @@
+Jake Peters 
+I am Child Process B:
+pid:29058
+ppid:	   29057
+B is on step 2000:
+pid:29058
+ppid:29057
+B is on step 4000:
+pid:29058
+ppid:29057
+B is on step 6000:
+pid:29058
+ppid:29057
+B is on step 8000:
+pid:29058
+ppid:29057
+B is on step 10000:
+pid:29058
+ppid:29057
+B is on step 12000:
+pid:29058
+ppid:29057
+B is on step 14000:
+pid:29058
+ppid:29057
+B is on step 16000:
+pid:29058
+ppid:29057
+B is on step 18000:
+pid:29058
+ppid:29057
+B is on step 20000:
+pid:29058
+ppid:29057
+B is on step 22000:
+pid:29058
+ppid:29057
+B is on step 24000:
+pid:29058
+ppid:29057
+B is on step 26000:
+pid:29058
+ppid:29057
+B is on step 28000:
+pid:29058
+ppid:29057
+B is on step 30000:
+pid:29058
+ppid:29057
+Jake Peters 
+I am Child Process A:
+pid:29059
+ppid:29057
+A is on step 2000:
+pid:29059
+ppid:29057
+A is on step 4000:
+pid:29059
+ppid:29057
+A is on step 6000:
+pid:29059
+ppid:29057
+A is on step 8000:
+pid:29059
+ppid:29057
+A is on step 10000:
+pid:29059
+ppid:29057
+A is on step 12000:
+pid:29059
+ppid:29057
+A is on step 14000:
+pid:29059
+ppid:29057
+A is on step 16000:
+pid:29059
+ppid:29057
+A is on step 18000:
+pid:29059
+ppid:29057
+A is on step 20000:
+pid:29059
+ppid:29057
+A is on step 22000:
+pid:29059
+ppid:29057
+A is on step 24000:
+pid:29059
+ppid:29057
+A is on step 26000:
+pid:29059
+ppid:29057
+A is on step 28000:
+pid:29059
+ppid:29057
+A is on step 30000:
+pid:29059
+ppid:29057
+Jake Peters 
+
+I am Parent Process:
+pid:29057
+ppid :28950
+Children have terminated
+Children have terminated
+Children have terminated
+Children have terminated
+Children have terminated
+Children have terminated
+Children have terminated
+Children have terminated
+Children have terminated
+Children have terminated
+Children have terminated
+Children have terminated
+Children have terminated
+Children have terminated
+Children have terminated

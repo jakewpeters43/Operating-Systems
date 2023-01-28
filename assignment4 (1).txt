@@ -1,0 +1,63 @@
+Jake Peters
+Hi, I am thread 1, pthread ID - 140605340735232
+Thread 1 is on step 2000:
+id:140605340735232
+Thread 1 is on step 4000:
+id:140605340735232
+Hi, I am thread 2, pthread ID - 140605332342528
+Thread 1 is on step 6000:
+id:140605340735232
+Thread 2 is on step 2000:
+id:140605332342528
+Thread 1 is on step 8000:
+id:140605340735232
+Thread 2 is on step 4000:
+id:140605332342528
+Thread 1 is on step 10000:
+id:140605340735232
+Thread 2 is on step 6000:
+id:140605332342528
+Thread 1 is on step 12000:
+id:140605340735232
+Thread 2 is on step 8000:
+id:140605332342528
+Thread 1 is on step 14000:
+id:140605340735232
+Thread 2 is on step 10000:
+id:140605332342528
+Thread 1 is on step 16000:
+id:140605340735232
+Thread 2 is on step 12000:
+id:140605332342528
+Thread 1 is on step 18000:
+id:140605340735232
+Thread 2 is on step 14000:
+id:140605332342528
+Thread 1 is on step 20000:
+id:140605340735232
+Thread 2 is on step 16000:
+id:140605332342528
+Thread 1 is on step 22000:
+id:140605340735232
+Thread 2 is on step 18000:
+id:140605332342528
+Thread 1 is on step 24000:
+id:140605340735232
+Thread 2 is on step 20000:
+id:140605332342528
+Thread 1 is on step 26000:
+id:140605340735232
+Thread 2 is on step 22000:
+id:140605332342528
+Thread 1 is on step 28000:
+id:140605340735232
+Thread 2 is on step 24000:
+id:140605332342528
+Thread 1 is on step 30000:
+id:140605340735232
+Thread 2 is on step 26000:
+id:140605332342528
+Thread 2 is on step 28000:
+id:140605332342528
+Thread 2 is on step 30000:
+id:140605332342528
